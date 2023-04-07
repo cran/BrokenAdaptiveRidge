@@ -1,0 +1,15 @@
+ede998da4bdbe50c4787ed690b39111e *DESCRIPTION
+91c301ae78e59d98754728452a7a5112 *NAMESPACE
+8b88fb856e82091b81d89e99d9d14a55 *R/Prior.R
+7c2940f13bcf5b98286ad0f32eb3c9ea *R/fastBarPrior.R
+dd5415325b82a4cf38d829235be54d6f *README.md
+09ba786a9ae322f3120584a81f9b140d *inst/CITATION
+3249483f75092dc986b0b01bb6ab8a0a *man/createBarPrior.Rd
+00318c3fa46a65cd7ee0e4778f4cff06 *man/createFastBarPrior.Rd
+ca70553c39a42521141d1f0dfbdefa92 *tests/testthat.R
+4efe893d63ce543aa0254e7c1661fb89 *tests/testthat/test-BestSubset.R
+eaa37125a653f89af786a924b1c13592 *tests/testthat/test-ExcludeCovariate.R
+de54dac6c1b825712e0ad1e0ebca5f9b *tests/testthat/test-FastPenalty.R
+4480ef2d4437f8cdb0faed7cc3c21d59 *tests/testthat/test-LogisticFastBAR.R
+59a11244c9f45b0b0861c3939c8c5351 *tests/testthat/test-Penalty.R
+5c2388325d24c1062521b84e15daa82d *tests/testthat/test-smallFastOldComparison.R
